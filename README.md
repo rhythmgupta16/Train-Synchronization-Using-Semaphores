@@ -2,10 +2,9 @@
 
 There are ‘n’ no. of trains on the train route. There are three types of trains: local, mail and special. Special train has the highest priority, local train has the middle priority and mail train has the lowest priority. Every train has a specific route from its source to destination which is taken in the form of track sequences on which the train will go to reach its destination. There can be only one train on a track at a time. So the problem is to synchronize the trains on the basis of their track routes and their priorities.
 
-###Train Type	####Priority
- Special	      1
- Local         	2
- Mail	          3
+Train Type | #Special | #Local | #Mail |
+--- | --- | --- | --- |
+Priority | 1 | 2 | 3 |
 
 
 ## Screenshots
